@@ -1,0 +1,20 @@
+body{
+    background-image: url(img/pagina\ inicial.jpg);
+    background-size: cover;
+    color: #32174d;
+}
+.navbar{
+    background-color: #5e17eb;
+}
+
+#quemsoueu .parceiros{
+    color: #32174d;
+
+}
+
+.margin{
+    margin-top: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
